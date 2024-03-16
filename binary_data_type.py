@@ -8,7 +8,7 @@ print(type(listConvertToBytes))
 # Mutable byteArray
 byteArrayList = [5, 10, 25, 40, 255]
 convertByteArrayToBytes = bytearray(byteArrayList)
-convertByteArrayToBytes[3] = 50  # replace the number of index [3]25 to 50
+convertByteArrayToBytes[3] = 50  # replace the number of index [3]40 to 50
 print(convertByteArrayToBytes[3])
 
 '''

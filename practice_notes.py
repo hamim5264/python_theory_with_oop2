@@ -1,5 +1,4 @@
-userName = "Hamim"
-userId = 5264
-print(userName)
-print(userId)
-print(f"{userName} {userId}")
+myRange = range(10)
+print(myRange)
+for x in myRange:
+    print(x)
