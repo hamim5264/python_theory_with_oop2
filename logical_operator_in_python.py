@@ -1,3 +1,4 @@
+# Logical operator
 a = 5
 b = 5
 result = a <= 5 and b >= 10

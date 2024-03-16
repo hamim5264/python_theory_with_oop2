@@ -4,7 +4,7 @@ print("Before swapping: ", num1, num2)
 swap = num1, num2 = num2, num1
 print("After swapping: ", swap)
 
-# Alternative way
+# Alternative way to swapping
 a = 10
 b = 20
 print("Before swapping a = ", a)
