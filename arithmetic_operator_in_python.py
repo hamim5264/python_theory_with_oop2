@@ -18,8 +18,7 @@ That means X will be multiply 2 times with its own value
 
 x = 5
 y = 3
-exponentiationSum = x ** y
-print(f"Exponentiation is: {exponentiationSum}")
+print(f"Exponentiation is: {x ** y}")
 
 # Floor Division
 """
@@ -27,7 +26,5 @@ Floor division means it will print the int value of division
 """
 num1 = 10
 num2 = 4
-withoutFloorDivision = num1 / num2
-floorDivisionSum = num1 // num2
-print(f"Without Floor Division: {withoutFloorDivision}")
-print(f"With Floor Division: {floorDivisionSum}")
+print(f"Without Floor Division: {num1 / num2}")
+print(f"With Floor Division: {num1 // num2}")
