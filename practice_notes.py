@@ -1,4 +1,5 @@
-myRange = range(10)
-print(myRange)
-for x in myRange:
-    print(x)
+# Exercise of tuple 1:
+fruits = ("apple", "banana", "cherry")
+print(fruits[0])
+countOfFruits = len(fruits)
+print(countOfFruits)
